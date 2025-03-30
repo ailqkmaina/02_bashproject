@@ -1,1 +1,4 @@
-Empty file
+#!/bin/bash
+
+
+ps aux | grep `whoami`
